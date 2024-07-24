@@ -6,6 +6,9 @@
 
 body{
     margin: 0px;
+    background: url(images/bodybg.png);
+    margin: 0;
+    padding: 0;
 }
 
 .navbar{
